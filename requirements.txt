@@ -8,4 +8,5 @@ safety==2.3.4
 semgrep==1.19.0
 wheel==0.34.2
 transformers==4.6.0
+tensorflow=2.5.0
 
