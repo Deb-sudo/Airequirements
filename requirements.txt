@@ -1,0 +1,8 @@
+Flask
+requests
+pytest
+bandit
+pip-audit
+safety
+semgrep
+wheel
