@@ -7,6 +7,6 @@ pip-audit==2.4.5
 safety==2.3.4
 semgrep==1.19.0
 wheel==0.34.2
-transformers==4.6.0
+transformers==5.0.0rc1
 tensorflow==2.5.0
 
